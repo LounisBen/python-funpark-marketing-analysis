@@ -153,6 +153,10 @@ Le revenu moyen par visite est comparé avant et après la promotion.
 | Avant promotion | 73,72 € |
 | Après promotion | 76,76 € |
 
+### Visualisation
+
+![Comparaison du revenu moyen avant et après promotion](images/promotion_avant_apres.png)
+
 L'écart observé est donc d'environ :
 
 **+3,04 € par visite**
