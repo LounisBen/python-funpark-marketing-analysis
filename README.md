@@ -124,10 +124,6 @@ Elle est suivie par :
 
 ### Performance des offres
 
-### Visualisation
-
-![Revenu moyen par type de billet](images/revenu_par_type_billet.png)
-
 Le billet **Famille** génère le revenu moyen par visite le plus élevé :
 
 **137,45 €**
@@ -138,6 +134,10 @@ Le billet **VIP** arrive ensuite avec :
 
 Ces deux offres représentent donc des leviers importants pour augmenter
 le revenu moyen par visiteur.
+
+### Visualisation
+
+![Revenu moyen par type de billet](images/revenu_par_type_billet.png)
 
 ---
 
