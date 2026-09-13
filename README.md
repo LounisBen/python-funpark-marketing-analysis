@@ -118,9 +118,15 @@ Elle est suivie par :
 - l'Allemagne ;
 - le Maroc.
 
+  ![Répartition des visiteurs par pays](images/visiteurs_par_pays.png)
+
 ---
 
 ### Performance des offres
+
+### Visualisation
+
+![Revenu moyen par type de billet](images/revenu_par_type_billet.png)
 
 Le billet **Famille** génère le revenu moyen par visite le plus élevé :
 
